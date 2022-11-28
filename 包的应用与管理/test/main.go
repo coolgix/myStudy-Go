@@ -3,7 +3,7 @@ package main
 // 导入内置包fmt
 import (
 	"fmt"
-	"github.com/demo/包的应用与管理/test/mpb"
+	"test/mpb"
 )
 
 func main() {
