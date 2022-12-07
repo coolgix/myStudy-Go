@@ -2,8 +2,11 @@ module github.com/demo
 
 go 1.18
 
+require github.com/tebeka/selenium v0.9.9
+
 require (
 	github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394 // indirect
+	github.com/blang/semver v3.5.1+incompatible // indirect
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 // indirect
 	github.com/richardlehane/mscfb v1.0.4 // indirect
 	github.com/richardlehane/msoleps v1.0.3 // indirect
